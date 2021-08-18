@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
+
 namespace SalesWebMvc.Models
 {
     public class Department
